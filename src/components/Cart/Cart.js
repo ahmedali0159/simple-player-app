@@ -8,12 +8,13 @@ const cart = (props) => {
 
     
     return (
+        
         <div className="hired">
-            <h4>Hire Summary</h4>
-            <p>players Hired: {cart.length}</p>
+              <h4>Hired Summary</h4>
+            <h6>player Hired: {cart.length}</h6>
             <ul>
                 {
-                    cart.map(player => <li>{player.name} ${player.salary}</li>)
+                    cart.map(player => <li className="name-salary">{player.name} ${player.salary}</li>)
                 }
             </ul>
             <h6>Total Budget: ${total}</h6>

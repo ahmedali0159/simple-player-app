@@ -1,0 +1,15 @@
+.name-salary{
+    list-style: none;
+    border: 3px solid gray;
+    box-shadow: 4px 4px 4px lightslategray;    
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    color: blue;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.hired h4{
+    margin-bottom: 20px;
+}
+
