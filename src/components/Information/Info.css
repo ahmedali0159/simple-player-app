@@ -1,0 +1,27 @@
+
+    
+
+.player-info img{
+    height: 255px;
+    padding: 10px;
+    
+}
+.player-info{
+    display: flex;
+    border: 5px solid gray;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightslategray;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    padding-bottom:10px;
+    
+    
+}
+.player-name{
+    color: blue;
+    font-weight: 500;
+    margin-top: 10px;
+}
+.cursor{
+    cursor: pointer;
+}

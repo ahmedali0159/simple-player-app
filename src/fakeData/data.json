@@ -1,0 +1,70 @@
+[{
+    "name":"Robert Lewandowski",
+    "Club":"FC Bayern Munchen",
+    "Nationality": "Polish",
+    "image": "https://images.daznservices.com/di/library/GOAL/ea/86/robert-lewandowski-bayern-munich-schalke-2019-20_tt5ffig4vsrn13f6j0hhm4ah2.jpg?t=-496349073&quality=100",
+    "salary": "30000 "
+},  {
+    "name":"Lionel Messi",
+    "Club":"FC Barcelona",
+    "Nationality":"Argentina",
+    "image":"https://www.wallpapertip.com/wmimgs/156-1562472_images-of-lionel-messi-new-messi-hd.jpg",
+    "salary":"90000"
+},{
+    "name":"Cristiano Ronaldo",
+    "Club":"Juventus",
+    "Nationality":"Portugal",
+    "image":"https://images.performgroup.com/di/library/GOAL/6c/6/cristiano-ronaldo-juventus_y28d7wyn37cf1kc8ifl0f0o80.jpg?t=-1238068546&quality=100",
+    "salary":"35000"
+},{
+    "name":"Joshua Kimmich",
+    "Club":"FC Bayern Munchen",
+    "Nationality":"Germany",
+    "image":"https://img.fcbayern.com/image/upload/v1604859140/cms/public/images/fcbayern-com/homepage/saison-20-21/profis/Kimmich/201021_Kimmich_GET.jpg",
+    "salary":"12000"
+},{
+    "name":"Neymar Jr",
+    "Club":"PSG",
+    "Nationality":"Brazil",
+    "image":"https://wallpapercave.com/wp/wp2850806.jpg",
+    "salary":"30000"
+},{
+    "name":"Thiago Alcántara",
+    "Club":"FC Bayern Munchen",
+    "Nationality":"Spain",
+    "image":"https://images.daznservices.com/di/library/GOAL/d2/ab/thiago-alcantara-bayern-2019-20_1padf81u9r6xg1on88v2mbz2lb.jpg?t=1988598543&quality=100",
+    "salary":"18000"
+},{
+    "name":"Sergio Ramos",
+    "Club":"Real Madrid",
+    "Nationality":"Spain",
+    "image":"https://images.daznservices.com/di/library/GOAL/d2/a9/sergio-ramos-real-madrid-2018-19_1kheoey1j02wt1n0ixlhcuxafa.jpg?t=-401644319&quality=100",
+    "salary":"28000"
+},{
+    "name":"Virgil van Dijk",
+    "Club":"Liverpool",
+    "Nationality":"Netherland",
+    "image":"https://images.daznservices.com/di/library/GOAL/6e/2c/virgil-van-dijk-liverpool-2019-20_14lirwm3mquvh1lozceg9qm3jl.jpg?t=-1748776048&quality=100",
+    "salary":"15000"
+},{
+    "name":"Alphonso Davies",
+    "Club":"FC Bayern Munchen",
+    "Nationality":"Canada",
+    "image":"https://images.daznservices.com/di/library/GOAL/37/41/alphonso-davies-bayern-munich-2020-21_wf01r7fl80ry18y47xeoazt6n.jpg?t=1574510965&quality=100",
+    "salary":"20000"
+},{
+    "name":"Trent Alexander-Arnold",
+    "Club":"Liverpool",
+    "Nationality":"England",
+    "image":"https://images.daznservices.com/di/library/GOAL/b4/fb/alexander-arnold-liverpool-2019_4o6wr5rb3fwu1q0hnd1mr6b2l.jpg?t=1222430671&quality=100",
+    "salary":"18000"
+},{
+    "name":"Alisson Becker",
+    "Club":"Liverpool",
+    "Nationality":"Brazil",
+    "image":"https://images.daznservices.com/di/library/GOAL/8f/b7/alisson-liverpool-2019-20_a7uxanycu3d81utnald2ibten.jpg?t=512440671&quality=100",
+    "salary":"27000"
+}
+
+]
+
